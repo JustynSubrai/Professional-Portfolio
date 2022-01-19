@@ -11,4 +11,6 @@ scales to whatever device viewed on, and has a phone view with a side tab for th
 
 contact in the footer with a link to my github
 
+https://github.com/JustynSubrai/Professional-Portfolio/settings/pages
+
 <img src="Screenshot 2022-01-18 214832.png">
