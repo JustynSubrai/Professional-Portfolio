@@ -5,7 +5,6 @@
     box-sizing: border-box;
     font-family: 'Audiowide', 'cursive';
     color: rgb(235, 235, 235);
-    overflow-y: hidden;
 }
 
 .title {
