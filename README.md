@@ -13,4 +13,4 @@ contact in the footer with a link to my github
 
 https://github.com/JustynSubrai/Professional-Portfolio/settings/pages
 
-<img src="Screenshot 2022-01-18 214832.png">
+<img src="assets\pictures\Screenshot 2022-01-18 214832.png">
