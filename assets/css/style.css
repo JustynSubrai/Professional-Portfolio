@@ -93,6 +93,7 @@ nav {
         opacity: 0;
     }
     .burger{   
+        z-index: 2;
         display: block;
         cursor: pointer;
     }
